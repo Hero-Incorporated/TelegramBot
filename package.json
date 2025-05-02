@@ -1,0 +1,24 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "a telegrambot that listens for user messages and saves them locally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hero-Incorporated/TelegramBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hero-Incorporated/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/Hero-Incorporated/TelegramBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "sqlite3": "^5.1.7"
+  }
+}
